@@ -55,4 +55,4 @@ for(let i = 0; i < newInventoryYearBuilt.length; i++){
 }
 
 let averageYear = (totalValue / newInventoryYearBuilt.length)
-console.log(averageYear)
+console.log('Average age is ' + averageYear + ' years.')
